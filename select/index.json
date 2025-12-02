@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "平熱",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-02T09:19:10.091870Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平熱",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_平熱_いよわ.txt"
+    }
+  ]
+}
